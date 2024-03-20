@@ -18,8 +18,8 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 
-openai.api_key = "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"
-os.environ['OPENAI_API_KEY'] = "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"
+openai.api_key = ""
+os.environ['OPENAI_API_KEY'] = ""
 
 
 def get_loc():
