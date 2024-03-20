@@ -40,6 +40,8 @@ def streamlit_setup():
 
         st.title("Chat with the ParkLah, your smart parking assistant")
         st.info("Smart Assistant to all your parking enquiries in Singapore ")
+        st.markdown("<p style='font-size: 14px; color: #888;'>ℹ This website tracks your IP address to get your current location</p>", unsafe_allow_html=True)
+        # Add a button for "Carparks near me"
     except Exception as e:
         logging.error(f"Error setting up streamlit application : {e}")
 

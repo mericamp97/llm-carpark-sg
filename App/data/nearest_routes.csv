@@ -1,0 +1,1187 @@
+,Unnamed: 0.1,Unnamed: 0,CarParkID,Car_Park_Address,Latitude,Longitude,Development,Location,AvailableParkingLots,LotType,Agency,Price_Weekdays_before_5_6pm,Price_Weekdays_after_5_6pm,Price_Saturdays,Price_Sundays_Public_Holiday,distance_to_carpark,route_directions
+243,243,244,66,"Funan, 107, North Bridge Road, Downtown Core, Singapore, Central Region, 179105, Singapore",1.2911,103.8502,Funan Mall,1.2911 103.8502,77,C,LTA,"12am-5.59pm: $2.40 for 1st hr, $0.65 for sub 15min.",6pm-11.59pm: $3.30 per entry.,"12am-2.59pm: Every 15mins of part thereof at $0.65. 3am-5.59pm: $2.60 for 1st 2hr, $0.65 for sub 15min or part thereof . 6pm to 11.59pm: $3.30 per entry.","12am-2.59pm: Every 15mins of part thereof at $0.65. 3am-5.59pm: $2.60 for 1st 2hr, $0.65 for sub 15min or part thereof . 6pm to 11.59pm: $3.30 per entry.",0.09697711080859871,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""sc{FqhzxRr@\\FB`B~@f@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""NORTH BRIDGE ROAD"",
+      129,
+      ""1.290975,103.850487"",
+      15,
+      ""129m"",
+      ""South West"",
+      ""North"",
+      ""driving"",
+      ""Head Southwest On North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NORTH BRIDGE ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""NORTH BRIDGE ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 15,
+    ""total_distance"": 129
+  },
+  ""viaRoute"": ""NORTH BRIDGE ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+233,233,234,56,"Old City Hall, 1, Saint Andrew's Road, Downtown Core, Singapore, Central Region, 178957, Singapore",1.29027,103.85167,National Gallery,1.29027 103.85167,197,C,LTA,"12am-5.59pm: $2.40 for 1st hr, $0.65 for sub 15min.",6pm-11.59pm: $3.30 per entry.,"12am-2.59pm: Every 15mins of part thereof at $0.65. 3am-5.59pm: $2.60 for 1st 2hr, $0.65 for sub 15min or part thereof . 6pm to 11.59pm: $3.30 per entry.","12am-2.59pm: Every 15mins of part thereof at $0.65. 3am-5.59pm: $2.60 for 1st 2hr, $0.65 for sub 15min or part thereof . 6pm to 11.59pm: $3.30 per entry.",0.11537878557028645,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""azzFuozxRyAk@qEsByGyCUEg@@]JSLk@`Ag@~@a@r@K\\pBbAzAx@TJx@`@dAj@tExBFB`B~@f@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""SAINT ANDREW'S ROAD"",
+      367,
+      ""1.289447,103.851629"",
+      42,
+      ""367m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On Saint Andrew's Road""
+    ],
+    [
+      ""Slight Left"",
+      ""SAINT ANDREW'S ROAD"",
+      66,
+      ""1.292362,103.853201"",
+      12,
+      ""66m"",
+      ""North"",
+      ""North East"",
+      ""driving"",
+      ""Keep Left Onto Saint Andrew's Road""
+    ],
+    [
+      ""Slight Right"",
+      ""STAMFORD ROAD"",
+      139,
+      ""1.292917,103.853092"",
+      21,
+      ""139m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Merge Right Onto Stamford Road""
+    ],
+    [
+      ""Left"",
+      ""NORTH BRIDGE ROAD"",
+      463,
+      ""1.293572,103.852032"",
+      52,
+      ""463m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""SAINT ANDREW'S ROAD"",
+    ""NORTH BRIDGE ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""SAINT ANDREW'S ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 127,
+    ""total_distance"": 1034
+  },
+  ""viaRoute"": ""STAMFORD ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+259,259,260,C0133,"EF Singapore, 15, Carpenter Street, Clarke Quay, Singapore River, Singapore, Central Region, 059918, Singapore",1.288265761,103.8481829,CARPENTER STREET OFF STREET,1.288265760877135 103.84818289117743,0,Y,URA,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,5pm-6am the followng day: $3.53 per entry,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,6am-6am the followng day: $3.53 per entry,0.16539836310973097,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""iuzFuzyxReBxB|BdB~B~AVRBRANMHkA_A_Aq@m@g@oCsBkAy@[WIk@KGcAm@cBw@KGjDyEf@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""UPPER CIRCULAR ROAD"",
+      88,
+      ""1.288693,103.848268"",
+      19,
+      ""88m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Upper Circular Road""
+    ],
+    [
+      ""Left"",
+      ""NEW BRIDGE ROAD"",
+      197,
+      ""1.289201,103.847659"",
+      23,
+      ""197m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto New Bridge Road""
+    ],
+    [
+      ""Uturn"",
+      ""EU TONG SEN STREET"",
+      365,
+      ""1.287811,103.846566"",
+      45,
+      ""365m"",
+      ""West"",
+      ""South West"",
+      ""driving"",
+      ""Make A U-turn And Continue On Eu Tong Sen Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      118,
+      ""1.290094,103.848318"",
+      14,
+      ""118m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Continue Left Onto Hill Street""
+    ],
+    [
+      ""Right"",
+      ""HIGH STREET"",
+      163,
+      ""1.290992,103.848872"",
+      29,
+      ""163m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto High Street""
+    ],
+    [
+      ""Right"",
+      ""NORTH BRIDGE ROAD"",
+      26,
+      ""1.290185,103.849996"",
+      3,
+      ""26m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NEW BRIDGE ROAD"",
+    ""EU TONG SEN STREET""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""UPPER CIRCULAR ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 131,
+    ""total_distance"": 954
+  },
+  ""viaRoute"": ""HILL STREET"",
+  ""subtitle"": ""Shortest distance""
+}"
+260,260,261,C0133,"EF Singapore, 15, Carpenter Street, Clarke Quay, Singapore River, Singapore, Central Region, 059918, Singapore",1.288265761,103.8481829,CARPENTER STREET OFF STREET,1.288265760877135 103.84818289117743,16,C,URA,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,5pm-6am the followng day: $3.53 per entry,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,6am-6am the followng day: $3.53 per entry,0.16539836310973097,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""iuzFuzyxReBxB|BdB~B~AVRBRANMHkA_A_Aq@m@g@oCsBkAy@[WIk@KGcAm@cBw@KGjDyEf@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""UPPER CIRCULAR ROAD"",
+      88,
+      ""1.288693,103.848268"",
+      19,
+      ""88m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Upper Circular Road""
+    ],
+    [
+      ""Left"",
+      ""NEW BRIDGE ROAD"",
+      197,
+      ""1.289201,103.847659"",
+      23,
+      ""197m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto New Bridge Road""
+    ],
+    [
+      ""Uturn"",
+      ""EU TONG SEN STREET"",
+      365,
+      ""1.287811,103.846566"",
+      45,
+      ""365m"",
+      ""West"",
+      ""South West"",
+      ""driving"",
+      ""Make A U-turn And Continue On Eu Tong Sen Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      118,
+      ""1.290094,103.848318"",
+      14,
+      ""118m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Continue Left Onto Hill Street""
+    ],
+    [
+      ""Right"",
+      ""HIGH STREET"",
+      163,
+      ""1.290992,103.848872"",
+      29,
+      ""163m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto High Street""
+    ],
+    [
+      ""Right"",
+      ""NORTH BRIDGE ROAD"",
+      26,
+      ""1.290185,103.849996"",
+      3,
+      ""26m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NEW BRIDGE ROAD"",
+    ""EU TONG SEN STREET""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""UPPER CIRCULAR ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 131,
+    ""total_distance"": 954
+  },
+  ""viaRoute"": ""HILL STREET"",
+  ""subtitle"": ""Shortest distance""
+}"
+236,236,237,59,"Traders Market, River Valley Road, Clarke Quay, Singapore River, Singapore, Central Region, 179024, Singapore",1.290678,103.84648,Clarke Quay,1.290678 103.84648,175,C,LTA,7am-6.59am (next morning): $1.35 for 1st hr; $0.45 for sub. 15 mins,$1.35 for 1st hr; $0.45 for sub. 15 mins,7am-6.59am (next morning): $1.35 for 1st hr; $0.45 for sub. 15 mins,7am-6.59am (next morning): $2.75 per entry,0.2590242206948984,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""ab{FgmyxRuAe@MRIN]j@q@fAqChEQRGHBKB@PSpCiEp@gA\\k@HOLSbCgEz@uB@EN_ABMKGcAm@cBw@KGjDyEf@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""CANNING LANE"",
+      53,
+      ""1.290726,103.846118"",
+      14,
+      ""53m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On Canning Lane""
+    ],
+    [
+      ""Left"",
+      ""RIVER VALLEY ROAD"",
+      256,
+      ""1.291163,103.846309"",
+      29,
+      ""256m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Turn Left Onto River Valley Road""
+    ],
+    [
+      ""Uturn"",
+      ""RIVER VALLEY ROAD"",
+      17,
+      ""1.292499,103.84444"",
+      13,
+      ""17m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Make A U-turn And Continue On River Valley Road""
+    ],
+    [
+      ""Left"",
+      ""RIVER VALLEY ROAD"",
+      511,
+      ""1.292499,103.84444"",
+      60,
+      ""511m"",
+      ""South East"",
+      ""South"",
+      ""driving"",
+      ""Turn Left Onto River Valley Road""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      118,
+      ""1.290094,103.848318"",
+      14,
+      ""118m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Turn Left Onto Hill Street""
+    ],
+    [
+      ""Right"",
+      ""HIGH STREET"",
+      163,
+      ""1.290992,103.848872"",
+      29,
+      ""163m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto High Street""
+    ],
+    [
+      ""Right"",
+      ""NORTH BRIDGE ROAD"",
+      26,
+      ""1.290185,103.849996"",
+      3,
+      ""26m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""RIVER VALLEY ROAD"",
+    ""HIGH STREET""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""CANNING LANE"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 160,
+    ""total_distance"": 1139
+  },
+  ""viaRoute"": ""HILL STREET"",
+  ""subtitle"": ""Fastest route, assuming usual traffic"",
+  ""phyroute"": {
+    ""status_message"": ""Found route between points"",
+    ""route_geometry"": ""ab{FgmyxRuAe@MRIN]j@q@fAhErCiEsCp@gA\\k@HOLSbCgEz@uB@EN_ABMKGcAm@cBw@KGjDyEf@X"",
+    ""status"": 0,
+    ""route_instructions"": [
+      [
+        ""Head"",
+        ""CANNING LANE"",
+        53,
+        ""1.290726,103.846118"",
+        14,
+        ""53m"",
+        ""North East"",
+        ""North"",
+        ""driving"",
+        ""Head Northeast On Canning Lane""
+      ],
+      [
+        ""Left"",
+        ""RIVER VALLEY ROAD"",
+        103,
+        ""1.291163,103.846309"",
+        17,
+        ""103m"",
+        ""North West"",
+        ""North"",
+        ""driving"",
+        ""Turn Left Onto River Valley Road""
+      ],
+      [
+        ""Left"",
+        ""TAN TYE PLACE"",
+        139,
+        ""1.291682,103.845546"",
+        53,
+        ""139m"",
+        ""South West"",
+        ""North West"",
+        ""driving"",
+        ""Turn Left Onto Tan Tye Place""
+      ],
+      [
+        ""Uturn"",
+        ""TAN TYE PLACE"",
+        139,
+        ""1.290672,103.84481"",
+        27,
+        ""139m"",
+        ""North East"",
+        ""South West"",
+        ""driving"",
+        ""Make A U-turn And Continue On Tan Tye Place""
+      ],
+      [
+        ""Right"",
+        ""RIVER VALLEY ROAD"",
+        358,
+        ""1.291682,103.845546"",
+        43,
+        ""358m"",
+        ""South East"",
+        ""North East"",
+        ""driving"",
+        ""Turn Right Onto River Valley Road""
+      ],
+      [
+        ""Left"",
+        ""HILL STREET"",
+        118,
+        ""1.290094,103.848318"",
+        14,
+        ""118m"",
+        ""North East"",
+        ""East"",
+        ""driving"",
+        ""Turn Left Onto Hill Street""
+      ],
+      [
+        ""Right"",
+        ""HIGH STREET"",
+        163,
+        ""1.290992,103.848872"",
+        29,
+        ""163m"",
+        ""North East"",
+        ""North East"",
+        ""driving"",
+        ""Turn Right Onto High Street""
+      ],
+      [
+        ""Right"",
+        ""NORTH BRIDGE ROAD"",
+        26,
+        ""1.290185,103.849996"",
+        3,
+        ""26m"",
+        ""South West"",
+        ""South East"",
+        ""driving"",
+        ""Turn Right Onto North Bridge Road""
+      ],
+      [
+        ""Destination"",
+        ""NORTH BRIDGE ROAD"",
+        0,
+        ""1.289994,103.849874"",
+        0,
+        ""0m"",
+        ""North"",
+        ""South West"",
+        ""driving"",
+        ""You Have Arrived At Your Destination""
+      ]
+    ],
+    ""route_name"": [
+      ""RIVER VALLEY ROAD"",
+      ""TAN TYE PLACE""
+    ],
+    ""route_summary"": {
+      ""start_point"": ""CANNING LANE"",
+      ""end_point"": ""NORTH BRIDGE ROAD"",
+      ""total_time"": 280,
+      ""total_distance"": 1095
+    },
+    ""viaRoute"": ""RIVER VALLEY ROAD"",
+    ""subtitle"": ""Shortest distance""
+  }
+}"
+265,265,266,H0024,"Kreta Ayer Neighbourhood Police Post, 55, North Canal Road, Clarke Quay, Singapore River, Singapore, Central Region, 059282, Singapore",1.286401071,103.8473268,HONG LIM PARK OFF STREET,1.2864010712092964 103.84732683484889,6,C,URA,7am-6pm: $2.50 per ½ hr,Aft 6pm: $3.60 per entry,7am-1pm: $2.50 per ½ hr; 1pm-7am: $3.60 per entry.,$3.60 per entry,0.29774121230231265,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""qgzFktyxR]OsBjFW`@O?WGaA}@kA_A_Aq@m@g@oCsBkAy@[WIk@KGcAm@cBw@KGjDyEf@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""NORTH CANAL ROAD"",
+      19,
+      ""1.286492,103.847255"",
+      12,
+      ""19m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On North Canal Road""
+    ],
+    [
+      ""Left"",
+      ""NORTH CANAL ROAD"",
+      147,
+      ""1.286635,103.847337"",
+      17,
+      ""147m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left To Stay On North Canal Road""
+    ],
+    [
+      ""Right"",
+      ""EU TONG SEN STREET"",
+      431,
+      ""1.28722,103.84616"",
+      49,
+      ""431m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Eu Tong Sen Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      118,
+      ""1.290094,103.848318"",
+      14,
+      ""118m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Continue Left Onto Hill Street""
+    ],
+    [
+      ""Right"",
+      ""HIGH STREET"",
+      163,
+      ""1.290992,103.848872"",
+      29,
+      ""163m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto High Street""
+    ],
+    [
+      ""Right"",
+      ""NORTH BRIDGE ROAD"",
+      26,
+      ""1.290185,103.849996"",
+      3,
+      ""26m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NORTH CANAL ROAD"",
+    ""EU TONG SEN STREET""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""NORTH CANAL ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 122,
+    ""total_distance"": 900
+  },
+  ""viaRoute"": ""HILL STREET"",
+  ""subtitle"": ""Shortest distance""
+}"
+246,246,247,A0011,"The Bible House, 7, Armenian Street, Museum, Singapore, Central Region, 179932, Singapore",1.293926044,103.8488661,ARMENIAN STREET OFF STREET,1.2939260442319098 103.84886606187928,18,C,URA,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,5pm-8am next day: $5.35 per entry,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,0.30417732158488775,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""gs{Fc_zxRSKuAm@z@kB\\w@{DcB{@bB]~@_CmAEIIIu@e@uC_CnCgDhDmF|FtDv@b@pBbAzAx@TJx@`@dAj@tExBFB`B~@f@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""ARMENIAN STREET"",
+      68,
+      ""1.293476,103.848983"",
+      10,
+      ""68m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On Armenian Street""
+    ],
+    [
+      ""Right"",
+      ""LOKE YEW STREET"",
+      105,
+      ""1.294014,103.849269"",
+      25,
+      ""105m"",
+      ""South East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto Loke Yew Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      119,
+      ""1.293559,103.850089"",
+      19,
+      ""119m"",
+      ""North East"",
+      ""South East"",
+      ""driving"",
+      ""Turn Left Onto Hill Street""
+    ],
+    [
+      ""Left"",
+      ""STAMFORD ROAD"",
+      104,
+      ""1.2945,103.850593"",
+      15,
+      ""104m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Stamford Road""
+    ],
+    [
+      ""Right"",
+      ""STAMFORD ROAD"",
+      83,
+      ""1.294948,103.849774"",
+      10,
+      ""83m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right To Stay On Stamford Road""
+    ],
+    [
+      ""Slight Right"",
+      ""QUEEN STREET"",
+      161,
+      ""1.295586,103.850156"",
+      21,
+      ""161m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Keep Right Onto Queen Street""
+    ],
+    [
+      ""Right"",
+      ""BRAS BASAH ROAD"",
+      285,
+      ""1.296686,103.851092"",
+      35,
+      ""285m"",
+      ""South East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto Bras Basah Road""
+    ],
+    [
+      ""Right"",
+      ""NORTH BRIDGE ROAD"",
+      673,
+      ""1.295122,103.853119"",
+      76,
+      ""673m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""BRAS BASAH ROAD"",
+    ""NORTH BRIDGE ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""ARMENIAN STREET"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 206,
+    ""total_distance"": 1595
+  },
+  ""viaRoute"": ""STAMFORD ROAD"",
+  ""subtitle"": ""Fastest route, assuming usual traffic"",
+  ""phyroute"": {
+    ""status_message"": ""Found route between points"",
+    ""route_geometry"": ""gs{Fc_zxRSKuAm@z@kB\\w@{DcB{@bB]~@_CmAEIIIu@e@uC_CnCgDdHjGzDbBhBx@xAd@LD`ExATHjA`@jDyEf@X"",
+    ""status"": 0,
+    ""route_instructions"": [
+      [
+        ""Left"",
+        ""ARMENIAN STREET"",
+        68,
+        ""1.293476,103.848983"",
+        38,
+        ""68m"",
+        ""North East"",
+        ""North"",
+        ""driving"",
+        ""Head Northeast On Armenian Street""
+      ],
+      [
+        ""Right"",
+        ""LOKE YEW STREET"",
+        105,
+        ""1.294014,103.849269"",
+        25,
+        ""105m"",
+        ""South East"",
+        ""North East"",
+        ""driving"",
+        ""Turn Right Onto Loke Yew Street""
+      ],
+      [
+        ""Left"",
+        ""HILL STREET"",
+        119,
+        ""1.293559,103.850089"",
+        19,
+        ""119m"",
+        ""North East"",
+        ""South East"",
+        ""driving"",
+        ""Turn Left Onto Hill Street""
+      ],
+      [
+        ""Left"",
+        ""STAMFORD ROAD"",
+        104,
+        ""1.2945,103.850593"",
+        15,
+        ""104m"",
+        ""North West"",
+        ""North East"",
+        ""driving"",
+        ""Turn Left Onto Stamford Road""
+      ],
+      [
+        ""Right"",
+        ""STAMFORD ROAD"",
+        83,
+        ""1.294948,103.849774"",
+        10,
+        ""83m"",
+        ""North East"",
+        ""North West"",
+        ""driving"",
+        ""Turn Right To Stay On Stamford Road""
+      ],
+      [
+        ""Slight Right"",
+        ""QUEEN STREET"",
+        161,
+        ""1.295586,103.850156"",
+        21,
+        ""161m"",
+        ""North East"",
+        ""North East"",
+        ""driving"",
+        ""Keep Right Onto Queen Street""
+      ],
+      [
+        ""Right"",
+        ""BRAS BASAH ROAD"",
+        123,
+        ""1.296686,103.851092"",
+        17,
+        ""123m"",
+        ""South East"",
+        ""North East"",
+        ""driving"",
+        ""Turn Right Onto Bras Basah Road""
+      ],
+      [
+        ""Right"",
+        ""VICTORIA STREET"",
+        221,
+        ""1.295969,103.851933"",
+        25,
+        ""221m"",
+        ""South West"",
+        ""South East"",
+        ""driving"",
+        ""Turn Right Onto Victoria Street""
+      ],
+      [
+        ""Slight Right"",
+        ""HILL STREET"",
+        426,
+        ""1.2945,103.850593"",
+        52,
+        ""426m"",
+        ""South West"",
+        ""South West"",
+        ""driving"",
+        ""Merge Right Onto Hill Street""
+      ],
+      [
+        ""Left"",
+        ""HIGH STREET"",
+        155,
+        ""1.291052,103.848905"",
+        25,
+        ""155m"",
+        ""South East"",
+        ""South West"",
+        ""driving"",
+        ""Turn Left Onto High Street""
+      ],
+      [
+        ""Right"",
+        ""NORTH BRIDGE ROAD"",
+        26,
+        ""1.290185,103.849996"",
+        3,
+        ""26m"",
+        ""South West"",
+        ""South East"",
+        ""driving"",
+        ""Turn Right Onto North Bridge Road""
+      ],
+      [
+        ""Destination"",
+        ""NORTH BRIDGE ROAD"",
+        0,
+        ""1.289994,103.849874"",
+        0,
+        ""0m"",
+        ""North"",
+        ""South West"",
+        ""driving"",
+        ""You Have Arrived At Your Destination""
+      ]
+    ],
+    ""route_name"": [
+      ""ARMENIAN STREET"",
+      ""HILL STREET""
+    ],
+    ""route_summary"": {
+      ""start_point"": ""ARMENIAN STREET"",
+      ""end_point"": ""NORTH BRIDGE ROAD"",
+      ""total_time"": 326,
+      ""total_distance"": 1586
+    },
+    ""viaRoute"": ""BRAS BASAH ROAD"",
+    ""subtitle"": ""Shortest distance""
+  }
+}"
+205,205,206,3,"Raffles City, Raffles City, Downtown Core, Singapore, Central Region, 179103, Singapore",1.29382,103.85319,Raffles City,1.29382 103.85319,326,C,LTA,8am-6pm: $2.20 for 1st hr; $0.55 for sub. 15mins,Aft 6pm-8am next day: $3 per entry,"8am-8am next day: $2.20 for 1st 2hrs, $0.40 for sub. 15mins","8am-8am next day: $2.20 for 1st 2hrs, $0.40 for sub. 15mins",0.3557985583939275,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""{y{FkvzxRhC`Bv@b@pBbAzAx@TJx@`@dAj@tExBFB`B~@f@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""NORTH BRIDGE ROAD"",
+      593,
+      ""1.294536,103.852699"",
+      67,
+      ""593m"",
+      ""South West"",
+      ""North"",
+      ""driving"",
+      ""Head Southwest On North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NORTH BRIDGE ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""NORTH BRIDGE ROAD"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 67,
+    ""total_distance"": 593
+  },
+  ""viaRoute"": ""NORTH BRIDGE ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+206,206,207,4,"Esplanade Theatre, Raffles Link, Suntec City, Downtown Core, Singapore, Central Region, 039392, Singapore",1.29011,103.85561,The Esplanade,1.29011 103.85561,628,C,LTA,Mon-Thu: 7am-5pm: $3.27 for 1st 2hrs; $1.64 per ½ hr for sub. ½ hr (Car Park at Marina Square),Mon-Thu: 5pm-11pm: $2.25 per entry; 11pm-7am: $1.12 per ½ hr,Fri/Sat-Sun/PH: 7am-2am :$2.44 for 1st 2 hrs; $1.22 per hr for sub. 2hrs; $1.43 per ½ hr for sub. ½ hr after 4 hrs of parking. 2am-7am: $1.12 per ½ hr,Fri/Sat-Sun/PH: 7am-2am :$2.44 for 1st 2 hrs; $1.22 per hr for sub. 2hrs; $1.43 per ½ hr for sub. ½ hr after 4 hrs of parking. 2am-7am: $1.12 per ½ hr,0.3816610357026082,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""e`{Fck{xRm@r@_BpB}@bAEDg@l@{@p@uArA}@~Ag@dAk@`Ag@~@a@r@K\\pBbAzAx@TJx@`@dAj@tExBFB`B~@f@X"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""RAFFLES AVENUE"",
+      173,
+      ""1.290426,103.856023"",
+      20,
+      ""173m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Raffles Avenue""
+    ],
+    [
+      ""Straight"",
+      ""STAMFORD ROAD"",
+      395,
+      ""1.291448,103.854847"",
+      50,
+      ""395m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Continue Onto Stamford Road""
+    ],
+    [
+      ""Left"",
+      ""NORTH BRIDGE ROAD"",
+      463,
+      ""1.293572,103.852032"",
+      52,
+      ""463m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto North Bridge Road""
+    ],
+    [
+      ""Destination"",
+      ""NORTH BRIDGE ROAD"",
+      0,
+      ""1.289994,103.849874"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""STAMFORD ROAD"",
+    ""NORTH BRIDGE ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""RAFFLES AVENUE"",
+    ""end_point"": ""NORTH BRIDGE ROAD"",
+    ""total_time"": 122,
+    ""total_distance"": 1031
+  },
+  ""viaRoute"": ""STAMFORD ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+2,2,2,C0162,"Fort Canning Park, Central Expressway, Museum, Singapore, Central Region, 179034, Singapore",1.293973246,103.8445168,CLEMENCEAU AVENUE OFF STREET,1.2939732461823374 103.84451675349408,0,Y,URA,7am-5pm: $1.07 per hr,5pm-7am: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,0.4857071298713221,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""mv{FoayxRzADnANfKdD|Af@dBt@hHzD^Jb@@ZC\\QROVo@Du@D{@No@p@}B~AcDpAmC}CcCc@]aA}@kA_A_Aq@m@g@oCsBkAy@[WIk@KGcAm@cBw@KGjDyElAaBVP@DOV"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""CENTRAL EXPRESSWAY"",
+      333,
+      ""1.293994,103.844241"",
+      22,
+      ""333m"",
+      ""South"",
+      ""North"",
+      ""driving"",
+      ""Head South On Central Expressway""
+    ],
+    [
+      ""Slight Left"",
+      ""CENTRAL EXPRESSWAY"",
+      600,
+      ""1.291167,103.843299"",
+      93,
+      ""600m"",
+      ""South"",
+      ""South"",
+      ""driving"",
+      ""Take The Ramp On The Left Onto Central Expressway""
+    ],
+    [
+      ""Straight"",
+      ""HAVELOCK ROAD"",
+      197,
+      ""1.287463,103.843691"",
+      27,
+      ""197m"",
+      ""South East"",
+      ""East"",
+      ""driving"",
+      ""Go Straight Onto Havelock Road""
+    ],
+    [
+      ""Left"",
+      ""EU TONG SEN STREET"",
+      526,
+      ""1.286566,103.845215"",
+      60,
+      ""526m"",
+      ""North East"",
+      ""South East"",
+      ""driving"",
+      ""Turn Left Onto Eu Tong Sen Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      118,
+      ""1.290094,103.848318"",
+      14,
+      ""118m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Continue Left Onto Hill Street""
+    ],
+    [
+      ""Right"",
+      ""HIGH STREET"",
+      232,
+      ""1.290992,103.848872"",
+      40,
+      ""232m"",
+      ""North East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto High Street""
+    ],
+    [
+      ""Right"",
+      ""PARLIAMENT PLACE"",
+      37,
+      ""1.289795,103.850488"",
+      11,
+      ""37m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto Parliament Place""
+    ],
+    [
+      ""Left"",
+      ""PARLIAMENT PLACE"",
+      0,
+      ""1.289752,103.850247"",
+      0,
+      ""0m"",
+      ""North"",
+      ""North West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination, On The Left""
+    ]
+  ],
+  ""route_name"": [
+    ""CENTRAL EXPRESSWAY"",
+    ""EU TONG SEN STREET""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""CENTRAL EXPRESSWAY"",
+    ""end_point"": ""PARLIAMENT PLACE"",
+    ""total_time"": 263,
+    ""total_distance"": 2040
+  },
+  ""viaRoute"": ""HILL STREET"",
+  ""subtitle"": ""Shortest distance""
+}"
