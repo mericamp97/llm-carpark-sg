@@ -10,7 +10,7 @@ import openai,os
 from llama_index.agent.openai import OpenAIAgent
 from llama_index.core.tools import QueryEngineTool, ToolMetadata
 
-openai.api_key = ""
+
 os.environ['OPENAI_API_KEY'] = ""
 
 def indexing_strategy():

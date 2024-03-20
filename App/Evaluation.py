@@ -14,7 +14,7 @@ from llama_index.core.evaluation import FaithfulnessEvaluator
 
 from main import get_loc
 
-openai.api_key = ""
+
 os.environ['OPENAI_API_KEY'] = ""
 
 # Load documents and build index
