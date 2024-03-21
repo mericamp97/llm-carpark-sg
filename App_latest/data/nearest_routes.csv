@@ -1,0 +1,1517 @@
+,Unnamed: 0.1,Unnamed: 0,CarParkID,Car_Park_Address,Latitude,Longitude,Development,Location,AvailableParkingLots,LotType,Agency,Price_Weekdays_before_5_6pm,Price_Weekdays_after_5_6pm,Price_Saturdays,Price_Sundays_Public_Holiday,distance_to_carpark,route_directions
+2,2,2,C0162,"Fort Canning Park, Central Expressway, Museum, Singapore, Central Region, 179034, Singapore",1.293973246,103.8445168,CLEMENCEAU AVENUE OFF STREET,1.2939732461823374 103.84451675349408,0,Y,URA,7am-5pm: $1.07 per hr,5pm-7am: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,0.26357051361501915,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""mv{FoayxRzADnANfKdD|Af@dBt@hHzD^Jb@@ZC\\QROVo@Du@D{@No@p@}B~AcDkBiBw@u@{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdC`CjA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""CENTRAL EXPRESSWAY"",
+      333,
+      ""1.293994,103.844241"",
+      22,
+      ""333m"",
+      ""South"",
+      ""North"",
+      ""driving"",
+      ""Head South On Central Expressway""
+    ],
+    [
+      ""Slight Left"",
+      ""CENTRAL EXPRESSWAY"",
+      600,
+      ""1.291167,103.843299"",
+      93,
+      ""600m"",
+      ""South"",
+      ""South"",
+      ""driving"",
+      ""Take The Ramp On The Left Onto Central Expressway""
+    ],
+    [
+      ""Straight"",
+      ""HAVELOCK ROAD"",
+      106,
+      ""1.287463,103.843691"",
+      16,
+      ""106m"",
+      ""South East"",
+      ""East"",
+      ""driving"",
+      ""Go Straight Onto Havelock Road""
+    ],
+    [
+      ""Left"",
+      ""NEW MARKET ROAD"",
+      127,
+      ""1.28698,103.844513"",
+      21,
+      ""127m"",
+      ""North East"",
+      ""South East"",
+      ""driving"",
+      ""Turn Left Onto New Market Road""
+    ],
+    [
+      ""Left"",
+      ""MERCHANT ROAD"",
+      55,
+      ""1.287798,103.845308"",
+      7,
+      ""55m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Merchant Road""
+    ],
+    [
+      ""Slight Left"",
+      ""MERCHANT ROAD"",
+      384,
+      ""1.288097,103.844922"",
+      45,
+      ""384m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Keep Left Onto Merchant Road""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      184,
+      ""1.290098,103.842119"",
+      26,
+      ""184m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      83,
+      ""1.291959,103.842227"",
+      15,
+      ""83m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Right"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291312,103.841853"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination, On The Right""
+    ]
+  ],
+  ""route_name"": [
+    ""CENTRAL EXPRESSWAY"",
+    ""MERCHANT ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""CENTRAL EXPRESSWAY"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 262,
+    ""total_distance"": 1956
+  },
+  ""viaRoute"": ""MERCHANT ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+262,262,263,C0162,"Fort Canning Park, Central Expressway, Museum, Singapore, Central Region, 179034, Singapore",1.293973246,103.8445168,CLEMENCEAU AVENUE OFF STREET,1.2939732461823374 103.84451675349408,0,C,URA,7am-5pm: $1.07 per hr,5pm-7am: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,7am-1pm: $1.07 per hr; 1pm-7am next day: $3.21 per entry,0.26357051361501915,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""mv{FoayxRzADnANfKdD|Af@dBt@hHzD^Jb@@ZC\\QROVo@Du@D{@No@p@}B~AcDkBiBw@u@{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdC`CjA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""CENTRAL EXPRESSWAY"",
+      333,
+      ""1.293994,103.844241"",
+      22,
+      ""333m"",
+      ""South"",
+      ""North"",
+      ""driving"",
+      ""Head South On Central Expressway""
+    ],
+    [
+      ""Slight Left"",
+      ""CENTRAL EXPRESSWAY"",
+      600,
+      ""1.291167,103.843299"",
+      93,
+      ""600m"",
+      ""South"",
+      ""South"",
+      ""driving"",
+      ""Take The Ramp On The Left Onto Central Expressway""
+    ],
+    [
+      ""Straight"",
+      ""HAVELOCK ROAD"",
+      106,
+      ""1.287463,103.843691"",
+      16,
+      ""106m"",
+      ""South East"",
+      ""East"",
+      ""driving"",
+      ""Go Straight Onto Havelock Road""
+    ],
+    [
+      ""Left"",
+      ""NEW MARKET ROAD"",
+      127,
+      ""1.28698,103.844513"",
+      21,
+      ""127m"",
+      ""North East"",
+      ""South East"",
+      ""driving"",
+      ""Turn Left Onto New Market Road""
+    ],
+    [
+      ""Left"",
+      ""MERCHANT ROAD"",
+      55,
+      ""1.287798,103.845308"",
+      7,
+      ""55m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Merchant Road""
+    ],
+    [
+      ""Slight Left"",
+      ""MERCHANT ROAD"",
+      384,
+      ""1.288097,103.844922"",
+      45,
+      ""384m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Keep Left Onto Merchant Road""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      184,
+      ""1.290098,103.842119"",
+      26,
+      ""184m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      83,
+      ""1.291959,103.842227"",
+      15,
+      ""83m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Right"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291312,103.841853"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination, On The Right""
+    ]
+  ],
+  ""route_name"": [
+    ""CENTRAL EXPRESSWAY"",
+    ""MERCHANT ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""CENTRAL EXPRESSWAY"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 262,
+    ""total_distance"": 1956
+  },
+  ""viaRoute"": ""MERCHANT ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+236,236,237,59,"Traders Market, River Valley Road, Clarke Quay, Singapore River, Singapore, Central Region, 179024, Singapore",1.290678,103.84648,Clarke Quay,1.290678 103.84648,175,C,LTA,7am-6.59am (next morning): $1.35 for 1st hr; $0.45 for sub. 15 mins,$1.35 for 1st hr; $0.45 for sub. 15 mins,7am-6.59am (next morning): $1.35 for 1st hr; $0.45 for sub. 15 mins,7am-6.59am (next morning): $2.75 per entry,0.3339298986175078,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""ab{FgmyxRuAe@MRIN]j@q@fAqChEQRGHIJSVSVi@z@IJEJg@`A_@r@`HrDDIdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""CANNING LANE"",
+      53,
+      ""1.290726,103.846118"",
+      14,
+      ""53m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On Canning Lane""
+    ],
+    [
+      ""Left"",
+      ""RIVER VALLEY ROAD"",
+      439,
+      ""1.291163,103.846309"",
+      55,
+      ""439m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Turn Left Onto River Valley Road""
+    ],
+    [
+      ""Left"",
+      ""UNNAMED ROAD"",
+      190,
+      ""1.293437,103.843082"",
+      40,
+      ""190m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Unnamed Road""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      7,
+      ""1.291989,103.842177"",
+      4,
+      ""7m"",
+      ""South East"",
+      ""South West"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Right"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""RIVER VALLEY ROAD"",
+    ""UNNAMED ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""CANNING LANE"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 127,
+    ""total_distance"": 774
+  },
+  ""viaRoute"": ""UNNAMED ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"
+259,259,260,C0133,"EF Singapore, 15, Carpenter Street, Clarke Quay, Singapore River, Singapore, Central Region, 059918, Singapore",1.288265761,103.8481829,CARPENTER STREET OFF STREET,1.288265760877135 103.84818289117743,0,Y,URA,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,5pm-6am the followng day: $3.53 per entry,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,6am-6am the followng day: $3.53 per entry,0.4974253617512032,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""iuzFuzyxReBxB|BdB~B~AVRtAhA@`@Oj@eAbB{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdCdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""UPPER CIRCULAR ROAD"",
+      88,
+      ""1.288693,103.848268"",
+      19,
+      ""88m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Upper Circular Road""
+    ],
+    [
+      ""Left"",
+      ""NEW BRIDGE ROAD"",
+      260,
+      ""1.289201,103.847659"",
+      30,
+      ""260m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto New Bridge Road""
+    ],
+    [
+      ""Slight Right"",
+      ""NEW BRIDGE ROAD"",
+      45,
+      ""1.287375,103.846199"",
+      5,
+      ""45m"",
+      ""West"",
+      ""South West"",
+      ""driving"",
+      ""Keep Right Onto New Bridge Road""
+    ],
+    [
+      ""Straight"",
+      ""MERCHANT ROAD"",
+      123,
+      ""1.28745,103.845814"",
+      14,
+      ""123m"",
+      ""North West"",
+      ""West"",
+      ""driving"",
+      ""Go Straight Onto Merchant Road""
+    ],
+    [
+      ""Slight Left"",
+      ""MERCHANT ROAD"",
+      384,
+      ""1.288097,103.844922"",
+      45,
+      ""384m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Keep Left Onto Merchant Road""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      184,
+      ""1.290098,103.842119"",
+      26,
+      ""184m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NEW BRIDGE ROAD"",
+    ""MERCHANT ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""UPPER CIRCULAR ROAD"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 174,
+    ""total_distance"": 1255
+  },
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+260,260,261,C0133,"EF Singapore, 15, Carpenter Street, Clarke Quay, Singapore River, Singapore, Central Region, 059918, Singapore",1.288265761,103.8481829,CARPENTER STREET OFF STREET,1.288265760877135 103.84818289117743,16,C,URA,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,5pm-6am the followng day: $3.53 per entry,6am-5pm: $2.22 for 1st hr; $1.11 for sub 30min,6am-6am the followng day: $3.53 per entry,0.4974253617512032,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""iuzFuzyxReBxB|BdB~B~AVRtAhA@`@Oj@eAbB{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdCdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""UPPER CIRCULAR ROAD"",
+      88,
+      ""1.288693,103.848268"",
+      19,
+      ""88m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Upper Circular Road""
+    ],
+    [
+      ""Left"",
+      ""NEW BRIDGE ROAD"",
+      260,
+      ""1.289201,103.847659"",
+      30,
+      ""260m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto New Bridge Road""
+    ],
+    [
+      ""Slight Right"",
+      ""NEW BRIDGE ROAD"",
+      45,
+      ""1.287375,103.846199"",
+      5,
+      ""45m"",
+      ""West"",
+      ""South West"",
+      ""driving"",
+      ""Keep Right Onto New Bridge Road""
+    ],
+    [
+      ""Straight"",
+      ""MERCHANT ROAD"",
+      123,
+      ""1.28745,103.845814"",
+      14,
+      ""123m"",
+      ""North West"",
+      ""West"",
+      ""driving"",
+      ""Go Straight Onto Merchant Road""
+    ],
+    [
+      ""Slight Left"",
+      ""MERCHANT ROAD"",
+      384,
+      ""1.288097,103.844922"",
+      45,
+      ""384m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Keep Left Onto Merchant Road""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      184,
+      ""1.290098,103.842119"",
+      26,
+      ""184m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NEW BRIDGE ROAD"",
+    ""MERCHANT ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""UPPER CIRCULAR ROAD"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 174,
+    ""total_distance"": 1255
+  },
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+265,265,266,H0024,"Kreta Ayer Neighbourhood Police Post, 55, North Canal Road, Clarke Quay, Singapore River, Singapore, Central Region, 059282, Singapore",1.286401071,103.8473268,HONG LIM PARK OFF STREET,1.2864010712092964 103.84732683484889,6,C,URA,7am-6pm: $2.50 per ½ hr,Aft 6pm: $3.60 per entry,7am-1pm: $2.50 per ½ hr; 1pm-7am: $3.60 per entry.,$3.60 per entry,0.5199671186267856,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""qgzFktyxR]OsBjFm@dAeAbB{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdCdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""NORTH CANAL ROAD"",
+      19,
+      ""1.286492,103.847255"",
+      12,
+      ""19m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On North Canal Road""
+    ],
+    [
+      ""Left"",
+      ""NORTH CANAL ROAD"",
+      147,
+      ""1.286635,103.847337"",
+      17,
+      ""147m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left To Stay On North Canal Road""
+    ],
+    [
+      ""Straight"",
+      ""MERCHANT ROAD"",
+      169,
+      ""1.28722,103.84616"",
+      19,
+      ""169m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Go Straight Onto Merchant Road""
+    ],
+    [
+      ""Slight Left"",
+      ""MERCHANT ROAD"",
+      384,
+      ""1.288097,103.844922"",
+      45,
+      ""384m"",
+      ""North West"",
+      ""North West"",
+      ""driving"",
+      ""Keep Left Onto Merchant Road""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      184,
+      ""1.290098,103.842119"",
+      26,
+      ""184m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""NORTH CANAL ROAD"",
+    ""MERCHANT ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""NORTH CANAL ROAD"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 154,
+    ""total_distance"": 1073
+  },
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+246,246,247,A0011,"The Bible House, 7, Armenian Street, Museum, Singapore, Central Region, 179932, Singapore",1.293926044,103.8488661,ARMENIAN STREET OFF STREET,1.2939260442319098 103.84886606187928,18,C,URA,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,5pm-8am next day: $5.35 per entry,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,8am-5pm: $3.28 for 1st hr; $1.55 for sub. 30 mins,0.524872438926959,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""gs{Fc_zxRSKuAm@z@kB\\w@{DcB{@bB]~@_CmAQ?Q@KFSR]`@_@d@WR[T]P{@d@{@l@GlBKt@i@bE@lBXxBRxANb@\\v@XRd@l@n@l@VTp@ZbCp@f@CrEWbAD|@T~An@JDEJg@`A_@r@`HrDDIdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Left"",
+      ""ARMENIAN STREET"",
+      68,
+      ""1.293476,103.848983"",
+      10,
+      ""68m"",
+      ""North East"",
+      ""North"",
+      ""driving"",
+      ""Head Northeast On Armenian Street""
+    ],
+    [
+      ""Right"",
+      ""LOKE YEW STREET"",
+      105,
+      ""1.294014,103.849269"",
+      25,
+      ""105m"",
+      ""South East"",
+      ""North East"",
+      ""driving"",
+      ""Turn Right Onto Loke Yew Street""
+    ],
+    [
+      ""Left"",
+      ""HILL STREET"",
+      119,
+      ""1.293559,103.850089"",
+      19,
+      ""119m"",
+      ""North East"",
+      ""South East"",
+      ""driving"",
+      ""Turn Left Onto Hill Street""
+    ],
+    [
+      ""Left"",
+      ""STAMFORD ROAD"",
+      104,
+      ""1.2945,103.850593"",
+      15,
+      ""104m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Stamford Road""
+    ],
+    [
+      ""Right"",
+      ""STAMFORD ROAD"",
+      83,
+      ""1.294948,103.849774"",
+      10,
+      ""83m"",
+      ""North East"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right To Stay On Stamford Road""
+    ],
+    [
+      ""Slight Left"",
+      ""STAMFORD ROAD"",
+      235,
+      ""1.295586,103.850156"",
+      27,
+      ""235m"",
+      ""North"",
+      ""North East"",
+      ""driving"",
+      ""Keep Left Onto Stamford Road""
+    ],
+    [
+      ""Left"",
+      ""FORT CANNING ROAD"",
+      443,
+      ""1.297248,103.848929"",
+      50,
+      ""443m"",
+      ""West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Fort Canning Road""
+    ],
+    [
+      ""Slight Left"",
+      ""FORT CANNING ROAD"",
+      217,
+      ""1.29709,103.845062"",
+      39,
+      ""217m"",
+      ""South West"",
+      ""South West"",
+      ""driving"",
+      ""Make A Slight Left To Stay On Fort Canning Road""
+    ],
+    [
+      ""Slight Left"",
+      ""CLEMENCEAU AVENUE"",
+      282,
+      ""1.2955,103.843997"",
+      35,
+      ""282m"",
+      ""South"",
+      ""South"",
+      ""driving"",
+      ""Make A Slight Left Onto Clemenceau Avenue""
+    ],
+    [
+      ""Right"",
+      ""RIVER VALLEY ROAD"",
+      84,
+      ""1.293045,103.843727"",
+      15,
+      ""84m"",
+      ""North West"",
+      ""South West"",
+      ""driving"",
+      ""Turn Right Onto River Valley Road""
+    ],
+    [
+      ""Left"",
+      ""UNNAMED ROAD"",
+      190,
+      ""1.293437,103.843082"",
+      40,
+      ""190m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Unnamed Road""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      7,
+      ""1.291989,103.842177"",
+      4,
+      ""7m"",
+      ""South East"",
+      ""South West"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Right"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""STAMFORD ROAD"",
+    ""FORT CANNING ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""ARMENIAN STREET"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 299,
+    ""total_distance"": 2017
+  },
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+317,317,318,P0048,"Pearl's Hill City Park, People's Park, Outram, Singapore, Central Region, 168975, Singapore",1.28334836,103.8405378,PEARL BANK OFF STREET,1.2833483597834672 103.84053784909122,0,Y,URA,$3.38 for 1st hr; $0.84 for sub. 15min.,6pm-12am: $5.07 per entry,$3.38 for 1st hr; $0.84 for sub. 15min.,$3.38 for 1st hr; $0.84 for sub. 15min.,0.5620779777874023,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""{pyFinxxRc@C{@g@y@{@aAW_ITFvAO@M@]H{BLWAEm@I_@Qc@EIe@u@CUDq@qAe@i@ZkAbDgAnA}@UMGu@]uEqBOGMEsAe@aEoBoAdCdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""PEARL'S HILL TERRACE"",
+      372,
+      ""1.282855,103.841166"",
+      68,
+      ""372m"",
+      ""North"",
+      ""North"",
+      ""driving"",
+      ""Head North On Pearl's Hill Terrace""
+    ],
+    [
+      ""Right"",
+      ""PEARL'S HILL ROAD"",
+      117,
+      ""1.285524,103.841257"",
+      22,
+      ""117m"",
+      ""North"",
+      ""West"",
+      ""driving"",
+      ""Continue Right Onto Pearl's Hill Road""
+    ],
+    [
+      ""Right"",
+      ""PEARL'S HILL ROAD"",
+      151,
+      ""1.286562,103.841129"",
+      31,
+      ""151m"",
+      ""East"",
+      ""North"",
+      ""driving"",
+      ""Turn Right To Stay On Pearl's Hill Road""
+    ],
+    [
+      ""Left"",
+      ""UPPER CROSS STREET"",
+      51,
+      ""1.286936,103.842378"",
+      7,
+      ""51m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Turn Left Onto Upper Cross Street""
+    ],
+    [
+      ""Left"",
+      ""UPPER CROSS STREET"",
+      188,
+      ""1.287354,103.842569"",
+      22,
+      ""188m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Upper Cross Street""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      407,
+      ""1.288304,103.841211"",
+      52,
+      ""407m"",
+      ""North"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""PEARL'S HILL TERRACE"",
+    ""PEARL'S HILL ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""PEARL'S HILL TERRACE"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 236,
+    ""total_distance"": 1458
+  },
+  ""alternativeroute"": [
+    {
+      ""status_message"": ""Found route between points"",
+      ""route_geometry"": ""{pyFinxxRH@NFFHLf@NLXAv@WRMd@k@kA_AwAiAkCwBsDwCwAkAu@o@UUqDqCwBaB}CcCQLeAbB{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdCdClA"",
+      ""status"": 0,
+      ""route_instructions"": [
+        [
+          ""Head"",
+          ""PEARL'S HILL TERRACE"",
+          152,
+          ""1.282855,103.841166"",
+          33,
+          ""152m"",
+          ""South"",
+          ""North"",
+          ""driving"",
+          ""Head South On Pearl's Hill Terrace""
+        ],
+        [
+          ""Left"",
+          ""EU TONG SEN STREET"",
+          802,
+          ""1.281837,103.841219"",
+          94,
+          ""802m"",
+          ""North East"",
+          ""South East"",
+          ""driving"",
+          ""Turn Left Onto Eu Tong Sen Street""
+        ],
+        [
+          ""Left"",
+          ""MERCHANT ROAD"",
+          135,
+          ""1.287364,103.845878"",
+          16,
+          ""135m"",
+          ""North West"",
+          ""North East"",
+          ""driving"",
+          ""Turn Left Onto Merchant Road""
+        ],
+        [
+          ""Slight Left"",
+          ""MERCHANT ROAD"",
+          384,
+          ""1.288097,103.844922"",
+          45,
+          ""384m"",
+          ""North West"",
+          ""North West"",
+          ""driving"",
+          ""Keep Left Onto Merchant Road""
+        ],
+        [
+          ""Right"",
+          ""CLEMENCEAU AVENUE"",
+          184,
+          ""1.290098,103.842119"",
+          26,
+          ""184m"",
+          ""North East"",
+          ""North West"",
+          ""driving"",
+          ""Turn Right Onto Clemenceau Avenue""
+        ],
+        [
+          ""Left"",
+          ""UNITY STREET"",
+          88,
+          ""1.29156,103.842902"",
+          22,
+          ""88m"",
+          ""North West"",
+          ""North East"",
+          ""driving"",
+          ""Turn Left Onto Unity Street""
+        ],
+        [
+          ""Left"",
+          ""MERBAU ROAD"",
+          86,
+          ""1.291959,103.842227"",
+          16,
+          ""86m"",
+          ""South West"",
+          ""North West"",
+          ""driving"",
+          ""Turn Left Onto Merbau Road""
+        ],
+        [
+          ""Destination"",
+          ""MERBAU ROAD"",
+          0,
+          ""1.291287,103.841838"",
+          0,
+          ""0m"",
+          ""North"",
+          ""South West"",
+          ""driving"",
+          ""You Have Arrived At Your Destination""
+        ]
+      ],
+      ""route_name"": [
+        ""EU TONG SEN STREET"",
+        ""MERCHANT ROAD""
+      ],
+      ""route_summary"": {
+        ""start_point"": ""PEARL'S HILL TERRACE"",
+        ""end_point"": ""MERBAU ROAD"",
+        ""total_time"": 248,
+        ""total_distance"": 1828
+      },
+      ""viaRoute"": ""CLEMENCEAU AVENUE"",
+      ""subtitle"": ""Alternative suggestion""
+    }
+  ],
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+318,318,319,P0048,"Pearl's Hill City Park, People's Park, Outram, Singapore, Central Region, 168975, Singapore",1.28334836,103.8405378,PEARL BANK OFF STREET,1.2833483597834672 103.84053784909122,18,C,URA,$3.38 for 1st hr; $0.84 for sub. 15min.,6pm-12am: $5.07 per entry,$3.38 for 1st hr; $0.84 for sub. 15min.,$3.38 for 1st hr; $0.84 for sub. 15min.,0.5620779777874023,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""{pyFinxxRc@C{@g@y@{@aAW_ITFvAO@M@]H{BLWAEm@I_@Qc@EIe@u@CUDq@qAe@i@ZkAbDgAnA}@UMGu@]uEqBOGMEsAe@aEoBoAdCdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""PEARL'S HILL TERRACE"",
+      372,
+      ""1.282855,103.841166"",
+      68,
+      ""372m"",
+      ""North"",
+      ""North"",
+      ""driving"",
+      ""Head North On Pearl's Hill Terrace""
+    ],
+    [
+      ""Right"",
+      ""PEARL'S HILL ROAD"",
+      117,
+      ""1.285524,103.841257"",
+      22,
+      ""117m"",
+      ""North"",
+      ""West"",
+      ""driving"",
+      ""Continue Right Onto Pearl's Hill Road""
+    ],
+    [
+      ""Right"",
+      ""PEARL'S HILL ROAD"",
+      151,
+      ""1.286562,103.841129"",
+      31,
+      ""151m"",
+      ""East"",
+      ""North"",
+      ""driving"",
+      ""Turn Right To Stay On Pearl's Hill Road""
+    ],
+    [
+      ""Left"",
+      ""UPPER CROSS STREET"",
+      51,
+      ""1.286936,103.842378"",
+      7,
+      ""51m"",
+      ""North East"",
+      ""East"",
+      ""driving"",
+      ""Turn Left Onto Upper Cross Street""
+    ],
+    [
+      ""Left"",
+      ""UPPER CROSS STREET"",
+      188,
+      ""1.287354,103.842569"",
+      22,
+      ""188m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Upper Cross Street""
+    ],
+    [
+      ""Right"",
+      ""CLEMENCEAU AVENUE"",
+      407,
+      ""1.288304,103.841211"",
+      52,
+      ""407m"",
+      ""North"",
+      ""North West"",
+      ""driving"",
+      ""Turn Right Onto Clemenceau Avenue""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      88,
+      ""1.29156,103.842902"",
+      22,
+      ""88m"",
+      ""North West"",
+      ""North East"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Left"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""North West"",
+      ""driving"",
+      ""Turn Left Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""PEARL'S HILL TERRACE"",
+    ""PEARL'S HILL ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""PEARL'S HILL TERRACE"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 236,
+    ""total_distance"": 1458
+  },
+  ""alternativeroute"": [
+    {
+      ""status_message"": ""Found route between points"",
+      ""route_geometry"": ""{pyFinxxRH@NFFHLf@NLXAv@WRMd@k@kA_AwAiAkCwBsDwCwAkAu@o@UUqDqCwBaB}CcCQLeAbB{@lA_@p@o@z@eAlA{CnF]d@Yh@e@r@MEsAe@aEoBoAdCdClA"",
+      ""status"": 0,
+      ""route_instructions"": [
+        [
+          ""Head"",
+          ""PEARL'S HILL TERRACE"",
+          152,
+          ""1.282855,103.841166"",
+          33,
+          ""152m"",
+          ""South"",
+          ""North"",
+          ""driving"",
+          ""Head South On Pearl's Hill Terrace""
+        ],
+        [
+          ""Left"",
+          ""EU TONG SEN STREET"",
+          802,
+          ""1.281837,103.841219"",
+          94,
+          ""802m"",
+          ""North East"",
+          ""South East"",
+          ""driving"",
+          ""Turn Left Onto Eu Tong Sen Street""
+        ],
+        [
+          ""Left"",
+          ""MERCHANT ROAD"",
+          135,
+          ""1.287364,103.845878"",
+          16,
+          ""135m"",
+          ""North West"",
+          ""North East"",
+          ""driving"",
+          ""Turn Left Onto Merchant Road""
+        ],
+        [
+          ""Slight Left"",
+          ""MERCHANT ROAD"",
+          384,
+          ""1.288097,103.844922"",
+          45,
+          ""384m"",
+          ""North West"",
+          ""North West"",
+          ""driving"",
+          ""Keep Left Onto Merchant Road""
+        ],
+        [
+          ""Right"",
+          ""CLEMENCEAU AVENUE"",
+          184,
+          ""1.290098,103.842119"",
+          26,
+          ""184m"",
+          ""North East"",
+          ""North West"",
+          ""driving"",
+          ""Turn Right Onto Clemenceau Avenue""
+        ],
+        [
+          ""Left"",
+          ""UNITY STREET"",
+          88,
+          ""1.29156,103.842902"",
+          22,
+          ""88m"",
+          ""North West"",
+          ""North East"",
+          ""driving"",
+          ""Turn Left Onto Unity Street""
+        ],
+        [
+          ""Left"",
+          ""MERBAU ROAD"",
+          86,
+          ""1.291959,103.842227"",
+          16,
+          ""86m"",
+          ""South West"",
+          ""North West"",
+          ""driving"",
+          ""Turn Left Onto Merbau Road""
+        ],
+        [
+          ""Destination"",
+          ""MERBAU ROAD"",
+          0,
+          ""1.291287,103.841838"",
+          0,
+          ""0m"",
+          ""North"",
+          ""South West"",
+          ""driving"",
+          ""You Have Arrived At Your Destination""
+        ]
+      ],
+      ""route_name"": [
+        ""EU TONG SEN STREET"",
+        ""MERCHANT ROAD""
+      ],
+      ""route_summary"": {
+        ""start_point"": ""PEARL'S HILL TERRACE"",
+        ""end_point"": ""MERBAU ROAD"",
+        ""total_time"": 248,
+        ""total_distance"": 1828
+      },
+      ""viaRoute"": ""CLEMENCEAU AVENUE"",
+      ""subtitle"": ""Alternative suggestion""
+    }
+  ],
+  ""viaRoute"": ""CLEMENCEAU AVENUE"",
+  ""subtitle"": ""Shortest distance""
+}"
+21,21,22,P0096,"A20, Penang Road, Orchard, Singapore, Central Region, 238464, Singapore",1.299808749,103.8421253,PENANG ROAD OFF STREET,1.29980874920638 103.84212527391578,11,C,URA,"12am-6.59am: $3.24/entry; 7am-5.59pm: $2.70 for 1st hr, $1.35 for sub. 30min",6pm-11.59pm: $3.24 per entry,"12am-6.59am: $3.24/entry; 7am-5.59pm: $2.70 for 1st hr, $1.35 for sub. 30min",7am-11.59pm: $3.24 per entry; 12am-6.59am the following day: $3.24 per entry,0.5817315006289361,"{
+  ""status_message"": ""Found route between points"",
+  ""route_geometry"": ""_y|F{vxxRSf@UfBGd@VPj@TfAP~JfBrF|@?M?a@Hi@`@q@z@q@nBu@v@[dAo@JGtHhEx@aB`AmBDIdClA"",
+  ""status"": 0,
+  ""route_instructions"": [
+    [
+      ""Head"",
+      ""PENANG ROAD"",
+      106,
+      ""1.299524,103.842543"",
+      14,
+      ""106m"",
+      ""North West"",
+      ""North"",
+      ""driving"",
+      ""Head Northwest On Penang Road""
+    ],
+    [
+      ""Left"",
+      ""OXLEY ROAD"",
+      445,
+      ""1.29977,103.84163"",
+      84,
+      ""445m"",
+      ""South West"",
+      ""West"",
+      ""driving"",
+      ""Turn Left Onto Oxley Road""
+    ],
+    [
+      ""Left"",
+      ""RIVER VALLEY ROAD"",
+      286,
+      ""1.295927,103.840513"",
+      33,
+      ""286m"",
+      ""East"",
+      ""South"",
+      ""driving"",
+      ""Turn Left Onto River Valley Road""
+    ],
+    [
+      ""Right"",
+      ""MOHAMED SULTAN ROAD"",
+      206,
+      ""1.294162,103.842148"",
+      43,
+      ""206m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto Mohamed Sultan Road""
+    ],
+    [
+      ""Left"",
+      ""UNITY STREET"",
+      142,
+      ""1.29261,103.841136"",
+      28,
+      ""142m"",
+      ""South East"",
+      ""South West"",
+      ""driving"",
+      ""Turn Left Onto Unity Street""
+    ],
+    [
+      ""Right"",
+      ""MERBAU ROAD"",
+      86,
+      ""1.291959,103.842227"",
+      16,
+      ""86m"",
+      ""South West"",
+      ""South East"",
+      ""driving"",
+      ""Turn Right Onto Merbau Road""
+    ],
+    [
+      ""Destination"",
+      ""MERBAU ROAD"",
+      0,
+      ""1.291287,103.841838"",
+      0,
+      ""0m"",
+      ""North"",
+      ""South West"",
+      ""driving"",
+      ""You Have Arrived At Your Destination""
+    ]
+  ],
+  ""route_name"": [
+    ""OXLEY ROAD"",
+    ""MOHAMED SULTAN ROAD""
+  ],
+  ""route_summary"": {
+    ""start_point"": ""PENANG ROAD"",
+    ""end_point"": ""MERBAU ROAD"",
+    ""total_time"": 216,
+    ""total_distance"": 1268
+  },
+  ""viaRoute"": ""MOHAMED SULTAN ROAD"",
+  ""subtitle"": ""Shortest distance""
+}"

@@ -1,0 +1,191 @@
+/Users/srivas/PycharmProjects/NUS_NCS/venv/bin/python /Users/srivas/PycharmProjects/NUS_NCS/test_agent.py 
+===== Entering Chat REPL =====
+Type "exit" to exit.
+
+Human: Can you show me carparks in Bishan?
+Added user message to memory: Can you show me carparks in Bishan?
+=== Calling Function ===
+Calling function: CarPark with args: {"input":"carparks in Bishan"}
+Got output: Here are some carparks in Bishan:
+1. BLK 401-408 SIN MING AVE
+2. BLK 101-116 BISHAN STREET 12
+3. BLK 117-134 BISHAN STREET 12
+4. BLK 135/138 BISHAN STREET 12
+5. BLK 139-144 BISHAN STREET 12
+6. BLK 145-150A, 151 BISHAN STREET 11
+7. BLK 153-167 BISHAN STREET 13
+========================
+
+Assistant: Here are some carparks in Bishan:
+1. BLK 401-408 SIN MING AVE
+2. BLK 101-116 BISHAN STREET 12
+3. BLK 117-134 BISHAN STREET 12
+4. BLK 135/138 BISHAN STREET 12
+5. BLK 139-144 BISHAN STREET 12
+6. BLK 145-150A, 151 BISHAN STREET 11
+7. BLK 153-167 BISHAN STREET 13
+
+Human: can you show the number of available carparks in these ?
+Added user message to memory: can you show the number of available carparks in these ?
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 401-408 SIN MING AVE"}
+Got output: The number of available carparks in BLK 401-408 SIN MING AVE is 126.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 101-116 BISHAN STREET 12"}
+Got output: There are 389 available carparks in BLK 101-116 BISHAN STREET 12.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 117-134 BISHAN STREET 12"}
+Got output: There are 340 available carparks in BLK 117-134 BISHAN STREET 12.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 135/138 BISHAN STREET 12"}
+Got output: There are 128 available carparks in BLK 135/138 BISHAN STREET 12.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 139-144 BISHAN STREET 12"}
+Got output: There are 37 car parks available in BLK 139-144 BISHAN STREET 12.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 145-150A, 151 BISHAN STREET 11"}
+Got output: There are 264 available carparks in BLK 145-150A, 151 Bishan Street 11.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "number of available carparks in BLK 153-167 BISHAN STREET 13"}
+Got output: There are 347 available carparks in BLK 153-167 BISHAN STREET 13.
+========================
+
+Assistant: The number of available carparks in Bishan are as follows:
+1. BLK 401-408 SIN MING AVE: 126 available carparks
+2. BLK 101-116 BISHAN STREET 12: 389 available carparks
+3. BLK 117-134 BISHAN STREET 12: 340 available carparks
+4. BLK 135/138 BISHAN STREET 12: 128 available carparks
+5. BLK 139-144 BISHAN STREET 12: 37 available carparks
+6. BLK 145-150A, 151 BISHAN STREET 11: 264 available carparks
+7. BLK 153-167 BISHAN STREET 13: 347 available carparks
+
+Human: show me the carpark prices for these carparks?
+Added user message to memory: show me the carpark prices for these carparks?
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 401-408 SIN MING AVE"}
+Got output: The carpark prices in BLK 401-408 SIN MING AVE are as follows:
+- From 6am to 6pm: $1.80 per hour at Zhongshan Mall
+- After 6pm: $2.20 per entry
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 101-116 BISHAN STREET 12"}
+Got output: The carpark prices in BLK 101-116 BISHAN STREET 12 are as follows:
+- 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+- 6pm-11.59pm: $2.65 per entry
+- 12am-5.59pm: $2.65 for the 1st 2 hours, $0.45 for subsequent 15 minutes
+- 6pm-11.59pm: $2.65 per entry
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 117-134 BISHAN STREET 12"}
+Got output: The carpark prices in BLK 117-134 BISHAN STREET 12 are as follows:
+- From 12am to 5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+- From 6pm to 11.59pm: $2.65 per entry
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 135/138 BISHAN STREET 12"}
+Got output: The carpark prices in BLK 135/138 BISHAN STREET 12 are as follows:
+- 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+- 6pm-11.59pm: $2.65 per entry
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 139-144 BISHAN STREET 12"}
+Got output: The carpark prices in BLK 139-144 BISHAN STREET 12 are as follows:
+- From 12am to 5.59pm: $2.65 for the first 2 hours, $0.45 for subsequent 15 minutes.
+- From 6pm to 11.59pm: $2.65 per entry.
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 145-150A, 151 BISHAN STREET 11"}
+Got output: The carpark prices in BLK 145-150A, 151 BISHAN STREET 11 are as follows:
+- 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+- 6pm-11.59pm: $2.65 per entry
+========================
+
+=== Calling Function ===
+Calling function: CarPark with args: {"input": "carpark prices in BLK 153-167 BISHAN STREET 13"}
+Got output: The carpark prices in BLK 153-167 BISHAN STREET 13 are as follows:
+- 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+- 6pm-11.59pm: $2.65 per entry
+========================
+
+Assistant: The carpark prices for the carparks in Bishan are as follows:
+1. BLK 401-408 SIN MING AVE:
+   - From 6am to 6pm: $1.80 per hour at Zhongshan Mall
+   - After 6pm: $2.20 per entry
+
+2. BLK 101-116 BISHAN STREET 12:
+   - 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+   - 6pm-11.59pm: $2.65 per entry
+
+3. BLK 117-134 BISHAN STREET 12:
+   - From 12am to 5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+   - From 6pm to 11.59pm: $2.65 per entry
+
+4. BLK 135/138 BISHAN STREET 12:
+   - 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+   - 6pm-11.59pm: $2.65 per entry
+
+5. BLK 139-144 BISHAN STREET 12:
+   - From 12am to 5.59pm: $2.65 for the first 2 hours, $0.45 for subsequent 15 minutes
+   - From 6pm to 11.59pm: $2.65 per entry
+
+6. BLK 145-150A, 151 BISHAN STREET 11:
+   - 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+   - 6pm-11.59pm: $2.65 per entry
+
+7. BLK 153-167 BISHAN STREET 13:
+   - 12am-5.59pm: $1.35 for the 1st hour, $0.45 for subsequent 15 minutes
+   - 6pm-11.59pm: $2.65 per entry
+
+Human: can you show me carparks nearest to me?
+Added user message to memory: can you show me carparks nearest to me?
+=== Calling Function ===
+Calling function: Route with args: {"input":"carparks nearest to me"}
+Got output: The nearest carparks to your location are located at Fort Canning Park and Pearl's Hill City Park in Singapore's Central Region.
+========================
+
+Assistant: The nearest carparks to your location are located at Fort Canning Park and Pearl's Hill City Park in Singapore's Central Region.
+
+Human: Can you show me the directions to Pearl's Hill City?
+Added user message to memory: Can you show me the directions to Pearl's Hill City?
+=== Calling Function ===
+Calling function: Route with args: {"input":"directions to Pearl's Hill City Park"}
+Got output: To get to Pearl's Hill City Park, head North on Pearl's Hill Terrace, continue Right onto Pearl's Hill Road, then turn Right to stay on Pearl's Hill Road. After that, turn Left onto Upper Cross Street.
+========================
+
+Assistant: To get to Pearl's Hill City Park, head North on Pearl's Hill Terrace, continue Right onto Pearl's Hill Road, then turn Right to stay on Pearl's Hill Road. After that, turn Left onto Upper Cross Street.
+
+Human: Can you show me the price to park here on friday evening?
+Added user message to memory: Can you show me the price to park here on friday evening?
+=== Calling Function ===
+Calling function: CarPark with args: {"input":"carpark prices at Pearl's Hill City Park on Friday evening"}
+Got output: The carpark prices at Pearl's Hill City Park on Friday evening are $3.30 for the first 2 hours and $0.35 for subsequent 10 minutes or part thereof.
+========================
+
+Assistant: The carpark prices at Pearl's Hill City Park on Friday evening are $3.30 for the first 2 hours and $0.35 for subsequent 10 minutes or part thereof.
+
+Human: How far is it from here?
+Added user message to memory: How far is it from here?
+=== Calling Function ===
+Calling function: Route with args: {"input":"distance to Pearl's Hill City Park"}
+Got output: The distance to Pearl's Hill City Park is 318 meters.
+========================
+
+Assistant: The distance to Pearl's Hill City Park is 318 meters.
+
