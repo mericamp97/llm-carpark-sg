@@ -1,6 +1,6 @@
-from final.location import get_current_location, get_loc
-from final.agent import indexing_strategy, query_engine_tools
-from final.route import route_loader
+from location import get_current_location, get_loc
+from agent import indexing_strategy, query_engine_tools
+from route import route_loader
 import pandas as pd
 import logging, sys
 

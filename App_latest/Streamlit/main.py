@@ -54,7 +54,7 @@ def store_and_index():
         if not os.path.exists(PERSIST_DIR):
             # load the documents and create the index
             with st.spinner(text="Loading and indexing – hang tight! This should take 1-2 minutes."):
-                documents = SimpleDirectoryReader("./Streamlit_data").load_data()
+                documents = SimpleDirectoryReader("./Streamlit/Streamlit_data").load_data()
                 index = VectorStoreIndex.from_documents(documents)
 
                 # store it for later
